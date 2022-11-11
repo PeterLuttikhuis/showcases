@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Byhl92NlKzQE38sTl1pRSN/jrLv1XMFUMtj+vxt5R6giyi6FX2mgiQPoMsIG63zx1gJg7nVVoLGklrAknc4ZSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pluttikhuis\\Private\\Showcase\\Showcase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pluttikhuis\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\6.0.10\\microsoft.aspnetcore.spaproxy.6.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

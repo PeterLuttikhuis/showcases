@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Showcase",
+    "\\Showcase\\bin",
+    "\\Showcase\\bin\\Debug",
+    "\\Showcase\\bin\\Debug\\net6.0",
+    "\\Showcase\\bin\\Release",
+    "\\Showcase\\ClientApp",
+    "\\Showcase\\ClientApp\\src",
+    "\\Showcase\\ClientApp\\src\\app\\home",
+    "\\Showcase\\node_modules\\npm",
+    "\\Showcase\\Properties"
+  ],
+  "SelectedNode": "\\Showcase\\node_modules",
+  "PreviewInSolutionExplorer": false
+}

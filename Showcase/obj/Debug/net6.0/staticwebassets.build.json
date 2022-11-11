@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "MmQO05QvvDFDlwzjQQbXXyBy8GutajrMz8VDFG2dBlk=",
+  "Source": "Showcase",
+  "BasePath": "_content/Showcase",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Showcase\\wwwroot",
+      "Source": "Showcase",
+      "ContentRoot": "C:\\Users\\pluttikhuis\\Private\\Showcase\\wwwroot\\",
+      "BasePath": "_content/Showcase",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\pluttikhuis\\Private\\Showcase\\wwwroot\\favicon.ico",
+      "SourceId": "Showcase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pluttikhuis\\Private\\Showcase\\wwwroot\\",
+      "BasePath": "_content/Showcase",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}
