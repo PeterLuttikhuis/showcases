@@ -1,4 +1,5 @@
 ﻿@page "/lifecyclemanager"
+@using showcase_blazor.Entities;
 
 <PageTitle>LifecycleManager</PageTitle>
 
@@ -8,5 +9,10 @@
 <p role="status">Current count:</p>
 
 @code {
+    private Absence absence = new Absence();
 
+    private void IncrementCount()
+    {
+        absence.LifecycleManager.
+    }
 }
