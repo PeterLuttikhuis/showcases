@@ -1,4 +1,6 @@
-﻿namespace Data
+﻿using Data.Interfaces;
+
+namespace Data
 {
     public class MockData
     {
@@ -40,7 +42,7 @@
                 Packaging.PackagingUnit.Name = "Strip";
                 Packaging.PackagingUnit.UnitKind = UnitKind.Strip;
                 Packaging.NumberOfPackagingUnits = 2;
-                MedicineUnit = MedicineUnit.Tablets;
+                Unit = IMedicine.MedicineUnitEnum.Tablets;
                 MedicineUnitValue = 10;
             }
         }
@@ -54,7 +56,7 @@
                 Packaging.PackagingUnit.Name = "Sachets";
                 Packaging.PackagingUnit.UnitKind = UnitKind.Sachets;
                 Packaging.NumberOfPackagingUnits = 20;
-                MedicineUnit = MedicineUnit.Milligrams;
+                Unit = Unit.Milligrams;
                 MedicineUnitValue = 2;
             }
         }
@@ -68,7 +70,7 @@
                 Packaging.PackagingUnit.Name = "Fles";
                 Packaging.PackagingUnit.UnitKind = UnitKind.Bottle;
                 Packaging.NumberOfPackagingUnits = 1;
-                MedicineUnit = MedicineUnit.Milliliters;
+                Unit = Unit.Milliliters;
                 MedicineUnitValue = 150;
             }
         }
@@ -82,7 +84,7 @@
                 Packaging.PackagingUnit.Name = "Flesje";
                 Packaging.PackagingUnit.UnitKind = UnitKind.Bottle;
                 Packaging.NumberOfPackagingUnits = 1;
-                MedicineUnit = MedicineUnit.Milliliters;
+                Unit = Unit.Milliliters;
                 MedicineUnitValue = 25;
             }
         }

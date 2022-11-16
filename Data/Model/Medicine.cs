@@ -1,13 +1,9 @@
-﻿using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Data.Interfaces;
+using static Data.Interfaces.IMedicine;
 
 namespace Data
 {
-    public class Medicine
+    public class Medicine : IMedicine
     {
         public int Id { get; set; }
         public string Name { get; set; }
@@ -17,17 +13,11 @@ namespace Data
         public Packaging Packaging
         { get { return _packaging; } set { _packaging = value; } }
 
-        private MedicineUnit _medicineUnit = MedicineUnit.Undefined;
-        public MedicineUnit MedicineUnit { get {return _medicineUnit; } set {_medicineUnit = value; } }
+        private MedicineUnitEnum _medicineUnit = MedicineUnitEnum.Undefined;
+        public MedicineUnitEnum Unit { get { return _medicineUnit; } set { _medicineUnit = value; } }
 
         public int? MedicineUnitValue { get; set; }
     }
 
-    public enum MedicineUnit
-    {
-        Undefined = 0,
-        Tablets = 1,
-        Milliliters = 2,
-        Milligrams = 3
-    }
+
 }

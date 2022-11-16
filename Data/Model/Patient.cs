@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Data.Interfaces;
 
 namespace Data
 {
-    public class Patient
+    public class Patient : IPatient
     {
         public int Id { get; set; }
         public string Firstname { get; set; }
