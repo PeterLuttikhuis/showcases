@@ -17,15 +17,16 @@ namespace showcase_blazor.Entities.Lifecycle
 
             // todo: get attribute-name, type and value from DB?
 
-            switch (lifecycleObjectType)
-            {
-                case typeof(Absence):
-                    dict.Add("BeginValue", typeof(int), 0);
-                    break;
-                default:
-                    throw new NotImplementedException();
-            }
-            return state;
+            //switch (lifecycleObjectType)
+            //{
+            //    case typeof(Absence):
+            //        dict.Add("BeginValue", typeof(int), 0);
+            //        break;
+            //    default:
+            //        throw new NotImplementedException();
+            //}
+            //return state;
+            return null;
         }
 
     }

@@ -1,5 +1,6 @@
 ﻿@page "/lifecyclemanager"
-@using showcase_blazor.Entities;
+@using showcase_blazor.Data.Models;
+@using showcase_blazor.Helpers;
 
 <PageTitle>LifecycleManager</PageTitle>
 
@@ -8,11 +9,19 @@
 
 <p role="status">Current count:</p>
 
-@code {
-    private Absence absence = new Absence();
-
-    private void IncrementCount()
+<InputSelect id="medicine" @bind-Value="medicine.Id">
+    @foreach (var medicine in medicines)
     {
-        absence.LifecycleManager.
+        <option value="@medicine.Id">@medicine.Name</option>
+    }
+</InputSelect>
+
+@code {
+    //private Absence absence = new Absence();
+    private List<Medicine> medicines = new List<Medicine>();
+    private void generateData()
+    {
+        MockData mock = new MockData();
+        mock.Generate();
     }
 }

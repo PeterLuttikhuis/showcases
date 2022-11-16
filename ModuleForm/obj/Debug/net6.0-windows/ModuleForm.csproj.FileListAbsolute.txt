@@ -1,0 +1,17 @@
+C:\Users\pluttikhuis\Private\ModuleForm\bin\Debug\net6.0-windows\ModuleForm.exe
+C:\Users\pluttikhuis\Private\ModuleForm\bin\Debug\net6.0-windows\ModuleForm.deps.json
+C:\Users\pluttikhuis\Private\ModuleForm\bin\Debug\net6.0-windows\ModuleForm.runtimeconfig.json
+C:\Users\pluttikhuis\Private\ModuleForm\bin\Debug\net6.0-windows\ModuleForm.dll
+C:\Users\pluttikhuis\Private\ModuleForm\bin\Debug\net6.0-windows\ModuleForm.pdb
+C:\Users\pluttikhuis\Private\ModuleForm\obj\Debug\net6.0-windows\ModuleForm.csproj.AssemblyReference.cache
+C:\Users\pluttikhuis\Private\ModuleForm\obj\Debug\net6.0-windows\ModuleForm.Form1.resources
+C:\Users\pluttikhuis\Private\ModuleForm\obj\Debug\net6.0-windows\ModuleForm.csproj.GenerateResource.cache
+C:\Users\pluttikhuis\Private\ModuleForm\obj\Debug\net6.0-windows\ModuleForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pluttikhuis\Private\ModuleForm\obj\Debug\net6.0-windows\ModuleForm.AssemblyInfoInputs.cache
+C:\Users\pluttikhuis\Private\ModuleForm\obj\Debug\net6.0-windows\ModuleForm.AssemblyInfo.cs
+C:\Users\pluttikhuis\Private\ModuleForm\obj\Debug\net6.0-windows\ModuleForm.csproj.CoreCompileInputs.cache
+C:\Users\pluttikhuis\Private\ModuleForm\obj\Debug\net6.0-windows\ModuleForm.dll
+C:\Users\pluttikhuis\Private\ModuleForm\obj\Debug\net6.0-windows\refint\ModuleForm.dll
+C:\Users\pluttikhuis\Private\ModuleForm\obj\Debug\net6.0-windows\ModuleForm.pdb
+C:\Users\pluttikhuis\Private\ModuleForm\obj\Debug\net6.0-windows\ModuleForm.genruntimeconfig.cache
+C:\Users\pluttikhuis\Private\ModuleForm\obj\Debug\net6.0-windows\ref\ModuleForm.dll
