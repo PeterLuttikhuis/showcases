@@ -21,8 +21,6 @@ C:\Users\pluttikhuis\Private\Data\bin\Debug\net6.0\Microsoft.Extensions.Logging.
 C:\Users\pluttikhuis\Private\Data\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
 C:\Users\pluttikhuis\Private\Data\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
 C:\Users\pluttikhuis\Private\Data\bin\Debug\net6.0\Mono.TextTemplating.dll
-C:\Users\pluttikhuis\Private\Data\bin\Debug\net6.0\Npgsql.dll
-C:\Users\pluttikhuis\Private\Data\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Users\pluttikhuis\Private\Data\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
 C:\Users\pluttikhuis\Private\Data\bin\Debug\net6.0\SQLitePCLRaw.core.dll
 C:\Users\pluttikhuis\Private\Data\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
