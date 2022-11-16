@@ -56,7 +56,7 @@ namespace Data
                 Packaging.PackagingUnit.Name = "Sachets";
                 Packaging.PackagingUnit.UnitKind = UnitKind.Sachets;
                 Packaging.NumberOfPackagingUnits = 20;
-                Unit = Unit.Milligrams;
+                Unit = IMedicine.MedicineUnitEnum.Milligrams;
                 MedicineUnitValue = 2;
             }
         }
@@ -70,7 +70,7 @@ namespace Data
                 Packaging.PackagingUnit.Name = "Fles";
                 Packaging.PackagingUnit.UnitKind = UnitKind.Bottle;
                 Packaging.NumberOfPackagingUnits = 1;
-                Unit = Unit.Milliliters;
+                Unit = IMedicine.MedicineUnitEnum.Milliliters;
                 MedicineUnitValue = 150;
             }
         }
@@ -84,7 +84,7 @@ namespace Data
                 Packaging.PackagingUnit.Name = "Flesje";
                 Packaging.PackagingUnit.UnitKind = UnitKind.Bottle;
                 Packaging.NumberOfPackagingUnits = 1;
-                Unit = Unit.Milliliters;
+                Unit = IMedicine.MedicineUnitEnum.Milliliters;
                 MedicineUnitValue = 25;
             }
         }
